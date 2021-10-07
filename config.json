@@ -1,0 +1,28 @@
+{
+    "ownerNumber": "6281515589573@s.whatsapp.net",
+    "busines": "0@s.whatsapp.net",
+    "owner": "6281515589573",
+    "ownerName": "RamaGans",
+    "limitCount": 30,
+    "linkgc": "https://chat.whatsapp.com/DZf52GZI0yUA4izbhsjLqa",
+    "gamewaktu": 60,
+    "botName": "R-BOT",
+    "pathImg": "./media/Itsuki.jpg",
+    "apikey": "DinataApikeyAnu",
+    "fake": "JANGAN LUPA MAKAN",
+    "sesidInsta": "default",
+    "sessionName": "Dep",
+    "fakeTromli": "HELLOWORLD",
+    "txtDonasi": "Saweria : https://saweria.co/yoooo",
+    "gcount": {
+        "prem": 40,
+        "user": 20
+    },
+    "emote":{
+        "free": "◽",
+        "owner": "◾",
+        "limit": "🔸",
+        "glimit": "🔹",
+        "prem": "💰"
+    }
+}
