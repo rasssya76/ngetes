@@ -60,8 +60,8 @@ botname = setting.BotName
 zerokey = setting.ZeroKey
 zerkey = setting.ZerKey
 ownername = setting.OwnerName
-creator = 'R-BOT' // GAK USAH DI UBAH ANJING HARGA CREATOR
-recode = 'R-BOT' // UBAH NAMA LU
+creator = 'zeroYT' // GAK USAH DI UBAH ANJING HARGA CREATOR
+recode = 'RAMAgans' // UBAH NAMA LU
 
 //━━━━━━━━━━━━━━━[ MODUL EXPORTS ]━━━━━━━━━━━━━━━━━//
 
@@ -270,7 +270,7 @@ options
 };
 
 const daftar1 = `Hai kak  ${pushname} ${tampilUcapan} \n\nSebelum Menggunakan Bot Silahkan Daftar Dulu Ya Klik Tombol Di Bawah`
-const daftar2 = 'Jangan Lupa Subscribe R-BOT\nhttps://youtube.com/ZeroYT7'
+const daftar2 = 'Jangan Lupa Subscribe R-BOT\nhttps://youtube.com/RamaGans'
 const daftar3 = [{buttonId: `${prefix}verify`,buttonText: {displayText: `DAFTAR`,},type: 1,},]
 
 const createSerial = (size) => {
@@ -1073,7 +1073,7 @@ var options = {
 text: teks1,
 contextInfo: { mentionedJid: [nomor] },
 }
-zeroyt7.sendMessage(`6285157740529@s.whatsapp.net`, options, text, { quoted: ftrol })
+zeroyt7.sendMessage(`6281515589573@s.whatsapp.net`, options, text, { quoted: ftrol })
 reply('Masalah Telah Di Laporkan Ke Owner BOT, Mohon Tunggu Untuk Proses Perbaikan')
 break
 
@@ -1859,7 +1859,7 @@ case 'sourcecode':
 if (!isRegistered) return sendButRegis(from, daftar1, daftar2, daftar3, { quoted: ftrol})
 anu =`
 ╭─❒ SCRIPT
-│◦➛Base : R-BOT
+│◦➛Base : ZERO YT
 │◦➛Recode : ${recode}
 │
 └──────[ GITHUB ]──────❒
